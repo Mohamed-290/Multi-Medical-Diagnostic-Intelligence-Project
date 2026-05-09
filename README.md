@@ -8,7 +8,7 @@ Multi-Medical Diagnostic Intelligence Project
 The Brain Tumor image dataset has been uploaded to **Kaggle** due to its large size.
 
 🔗 **Kaggle Dataset Link:**  
-[Click here to download the Brain Tumor Images dataset]([YOUR_KAGGLE_DATASET_LINK_HERE](https://www.kaggle.com/datasets/mohamedaymanhassan/brain-tumor-images-classification-by-cnn))
+(https://www.kaggle.com/datasets/mohamedaymanhassan/brain-tumor-images-classification-by-cnn)
 
 > ⚠️ **Note:** These images are for research purposes only and are not a substitute for medical diagnosis.
 
