@@ -14,7 +14,7 @@ This project focuses on four major medical applications:
 
 The project combines data preprocessing, visualization, machine learning classification, deep learning, and deployment technologies to create an interactive diagnostic system.
 
----
+-----
 
 # Project Objectives
 
@@ -24,7 +24,7 @@ The project combines data preprocessing, visualization, machine learning classif
 * Apply Deep Learning for medical image classification.
 * Deploy the models using Streamlit for user interaction.
 
----
+-----
 
 # Technologies & Libraries Used
 
